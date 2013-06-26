@@ -1,0 +1,22 @@
+<html>
+<meta name="description" content="Questions & Answers.com">
+<meta name="keywords" content="Questions, Question ,Answers, Answer, How">
+
+<head>
+<title>Questions & Answers</title>
+</head>
+
+
+<body bgcolor="yellow" leftmargin="40" topmargin="30">
+<a name="principal"><center><h2>Questions & Answers</h2></center></a>
+<form method="post" action="">
+<p>
+<input type="submit" value="Sign up">
+</p>
+</form>
+<center><big>This page is designed to solve some doubts that you can have</big></center>
+<br><br><br>
+<a href="#principal">Click here to return to the beginning</a>
+</body>
+
+</html>
