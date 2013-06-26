@@ -1,0 +1,45 @@
+<html>
+
+<head>
+<title>Register</title>
+</head>
+
+<body bgcolor="blue" text="white" leftmargin="90">
+
+<font face="calibri"><b><center><h2>Register here</h2></center></b>
+<p>
+<form action="" method="post">
+<p>
+<label for="name">Name: </label>
+<input type="text" name="name" id="name">
+<br/> <br/>
+<label for="surname">Surnames: </label>
+<input type="text" name="surname" id="surname">
+<br/> <br/>
+<label for="email">Email: </label>
+<input type="text" name="email" id="email">
+<br/><br/>
+<input type="radio" name="gender" value="Man">
+<label for="hombre">Man: </label>
+<br/><br/>
+<input type="radio" name="gender" id="woman" value="Woman">
+<label for="mujer">Woman: </label>
+<br/>
+<hr size="8px" color="939393" />
+<br>
+<label for="username">Username: </label>
+<input type="text" name="username" id="username">
+<br/><br/>
+<label for="password">Password: </label>
+<input type="password" name="password" id="password">
+<br/><br/>
+<label for="retype password">Retype Password: </label>
+<input type="password" name="retype password" id="retype password">
+<br/> <br/>
+<input type="submit" value="Send">
+<input type="reset" value="Reset">
+</form>
+
+</body>
+
+</html>
